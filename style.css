@@ -1,0 +1,42 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+.header{
+	
+	/* height:100vh; */
+	/* background-size:cover; */
+	
+}
+.card1{
+    /* background:skyblue; */
+    margin-left:50px;
+    margin-right: 80px;
+    
+}
+#cardshdw1{
+    margin-top: 18px;
+    margin-bottom: 15px;
+}
+#cardshdw{
+	box-shadow: 5px 8px 5px #232323;
+}
+#cardshdw1{
+	box-shadow: 5px 8px 5px #232323;
+}
+#cardshdw2{
+	box-shadow: 5px 8px 5px #232323;
+}
+.nav{
+background-color: transparent;
+}
+#intro  { 
+	width: 288px;
+	box-shadow: 6px 8px 8px #232323;
+	height: 350px;
+	margin-left: 90px;
+	margin-bottom: 10px;
+	border-radius: 80px;
+
+}
