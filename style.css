@@ -9,17 +9,22 @@
 	/* background-size:cover; */
 	
 }
+.progres{
+	margin-left: 25px;
+	margin-right: 70px;
+
+}
 .col-sm-6{
 	font-family: cursive;
 }
 .card1{
     /* background:skyblue; */
-    margin-left:50px;
+    margin-left:80px;
     margin-right: 80px;
     
 }
 #cardshdw1{
-    margin-top: 18px;
+    margin-top: 8px;
     margin-bottom: 15px;
 }
 #cardshdw{
